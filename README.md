@@ -5,8 +5,7 @@ My notes and speaker slides from Front End Design Conference in St. Petersburg, 
 
 Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
-Designers Can Open Source
- | [Garth Braithwaite](https://twitter.com/garthdb) | [Link](/01-DesignersCanOpenSource-garthdb.md) | | Woohoo
+Designers Can Open Source | [Garth Braithwaite](https://twitter.com/garthdb) | [Link](/01-DesignersCanOpenSource-garthdb.md) | | Woohoo
 
 
 ## Day Two
