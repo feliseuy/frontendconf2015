@@ -1,6 +1,8 @@
 # Front-End Design Conference 2015
 My notes and speaker slides from Front End Design Conference in St. Petersburg, Florida
 
+[Front-End Design Conference Website](http://frontenddesignconference.com/)
+<!--
 ## Day One
 
 Talk Title | Speaker | My Notes | Talk Slides | Notes
@@ -13,8 +15,8 @@ Designers Can Open Source | [Garth Braithwaite](https://twitter.com/garthdb) | [
 Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
 
+-->
 
 
-## Other resources
 
-- [Front-End Design Conference Website](http://frontenddesignconference.com/)
+- 
